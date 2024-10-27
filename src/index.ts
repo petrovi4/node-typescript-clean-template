@@ -1,7 +1,7 @@
 import 'dotenv/config';
 
 export async function main() {
-  console.log('He there!');
+  console.log('Hi there!');
 }
 
 main();
